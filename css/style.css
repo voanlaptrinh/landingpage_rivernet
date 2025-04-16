@@ -412,7 +412,7 @@ body {
   --------------------------------------------------------------*/
   #hero {
     width: 100%;
-    background: url("../img/hero-bg.jpg");
+    /* background: url("../img/hero-bg.jpg"); */
     position: relative;
     padding: 120px 0 0 0;
   }
